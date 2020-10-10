@@ -1,0 +1,9 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+	int a,b;  //定义整型变量a,b 
+	cin>>a>>b; //输入两个数值，分别赋值给a,b 
+	cout<<a+b; //输出a+b 
+	return 0;
+ } 
